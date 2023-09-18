@@ -6,7 +6,7 @@
 
 <h3 align="center">About me :blush:</h3>
 <p>
-  - I’m currently working as a Full-Stack Engineer with Next.js, but always open to new challenges! 💪
+  - I’m currently working as a Full-Stack Developer with Next.js, but always open to new challenges! 💪
 </p>
 <p>
   - I’m very curious and eager to learn! That's why I've recently started learning Angular on my own 🙌🏻
