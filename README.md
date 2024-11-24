@@ -1,12 +1,12 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo</h1>
-<h3 align="center">Full-Stack Developer :computer: | Mechanical Engineer :wrench: | Drummer and Musician :guitar:</h3>
+<h3 align="center">Software Developer :computer: | Mechanical Engineer :wrench: | Drummer and Musician :guitar:</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">About me :blush:</h3>
 <p>
-  - I’m currently working as a Full-Stack Developer with Next.js, but always open to new challenges! 💪
+  - I’m currently working as a Mobile Developer with React Native, but always open to new challenges! 💪
 </p>
 <p>
   - I’m very curious and eager to learn! That's why I've recently started learning Angular on my own 🙌🏻
