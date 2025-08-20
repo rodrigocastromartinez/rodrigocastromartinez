@@ -1,8 +1,6 @@
 <div style="display: flex; gap: 12px; justify-content: center; align-vertical: center;">
   <h1 align="center" style="border: none">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo </h1>
-  <div style="max-height: 42px; max-width: 42px;">
-    <img src="./public/me.png">
-  </div>
+  <img width="42" height="42" src="./public/me.png">
 </div>
 <h3 align="center">Software Developer 💻 | Mechanical Engineer 🔧 | Drummer and Musician 🥁</h3>
 
