@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo </h1>
 <p align="center">
-  <img width="42" height="42" src="./public/me.png">
+  <img width="54" height="54" src="./public/me.png">
 </p>
 
 <h3 align="center">Software Developer 💻 | Mechanical Engineer 🔧 | Drummer and Musician 🥁</h3>
