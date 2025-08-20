@@ -1,7 +1,8 @@
-<div style="display: flex; gap: 12px; justify-content: center; align-vertical: center;">
-  <h1 align="center" style="border: none">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo </h1>
+<p align="center">
   <img width="42" height="42" src="./public/me.png">
-</div>
+</p>
+
 <h3 align="center">Software Developer 💻 | Mechanical Engineer 🔧 | Drummer and Musician 🥁</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
