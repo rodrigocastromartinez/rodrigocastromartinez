@@ -1,15 +1,17 @@
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo</h1>
-<h3 align="center">Software Developer :computer: | Mechanical Engineer :wrench: | Drummer and Musician :guitar:</h3>
+<div style="display: flex; gap: 12px; justify-content: center; align-vertical: center;">
+  <h1 align="center" style="border: none">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rodrigo </h1>
+  <img src="./public/me.png" style="max-height: 42px;">
+</div>
+<h3 align="center">Software Developer 💻 | Mechanical Engineer 🔧 | Drummer and Musician 🥁</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">About me :blush:</h3>
 <p>
-  - I’m currently working as a Mobile Developer with React Native, but always open to new challenges! 💪
+  - I’m currently working as a Mobile Developer with React Native and Expo, but always open to new challenges! 💪
 </p>
 <p>
-  - I’m very curious and eager to learn! That's why I've recently started learning Angular on my own 🙌🏻
+  - I’m very curious and eager to learn! That's why I've recently started studying design patterns and architecture 🙌🏻
 </p>
 <p>
   - I’m also a Mechanical Engineer! That's why I have several years of experience as a Project Planner 👷‍♂️
@@ -22,8 +24,8 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,bootstrap,css,tailwind,javascript,typescript,react,next,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,aws,babel,firebase,jest,redux,regex,vercel,vscode,vite,fortran" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,javascript,typescript,react,next,nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,babel,androidstudio,jest,redux,regex,vercel,vscode,vite,angular" />
   </a>
 </p>
 
@@ -47,3 +49,4 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-castro-martinez/"><img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rodrigocastro.mdp@gmail.com"><img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
